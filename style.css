@@ -1,1 +1,9 @@
-/* Start coding here */
+.registration-form input:disabled{
+background-color: lightgray;
+}
+.registration-form input:hover{
+border: 1px solid khaki;
+}
+.registration-form button:hover{
+color: pink;
+}
