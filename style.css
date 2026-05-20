@@ -2,7 +2,7 @@
 background-color: lightgray;
 }
 .registration-form input:hover{
-border: 1px solid khaki;
+border-color: khaki;
 }
 .registration-form button:hover{
 color: pink;
